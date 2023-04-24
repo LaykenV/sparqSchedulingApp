@@ -1,0 +1,7 @@
+.amplify-button[data-variation='primary'] {
+    background-color: #111243;
+  }
+
+  .amplify-button[data-variation='link'] {
+    color: #111243;
+  }

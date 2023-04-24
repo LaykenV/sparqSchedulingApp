@@ -1,0 +1,179 @@
+.profilePage {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: white;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.headerText {
+    font-size: 2rem;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.headerSubtext {
+    font-size: 12px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    margin-top: -10px;
+}
+
+.forms {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+form {
+    width: 100%;
+}
+
+.body {
+    display: flex;
+    width: 100%;
+    gap: 30px;
+}
+
+.userSection {
+    width: 740px;
+}
+
+.infoSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.idRow {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+}
+
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 75px;
+}
+
+.inputSubtext {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    margin-left: 22px;
+    margin-bottom: -10px;
+    height: 18px;
+}
+
+.chipSubtext {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    padding: 7px;
+    padding-left: 12px;
+}
+
+.studentRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.chipsDiv {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 12px;
+
+}
+
+.dateSubtext {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    width: 100%;
+    margin-top: -25px;
+    
+}
+
+.sectionHeader {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px; 
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.availabilitySection {
+    width: 100%;
+}
+
+.daySection {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.dayText {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.dropdownRow {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+
+.addRow {
+    background-color: #111243;
+    border: none;
+    color: white;
+    width: 40px;
+    height: 30px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.deleteRow {
+    width: 40px;
+    height: 30px;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color: inherit;
+    border: 1px red solid;
+}
+
+
+
