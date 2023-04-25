@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": null,
   "keywords": [],
-  "homepage": null,
+  "homepage": "http://LaykenV.github.io/sparqSchedulingApp",
   "main": "index.js",
   "dependencies": {
     "@aws-amplify/ui-react": "^3.6.1",
