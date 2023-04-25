@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/sparqSchedulingApp/static/css/main.72caaa33.chunk.css",
+    "main.js": "/sparqSchedulingApp/static/js/main.653ea677.chunk.js",
+    "main.js.map": "/sparqSchedulingApp/static/js/main.653ea677.chunk.js.map",
+    "runtime-main.js": "/sparqSchedulingApp/static/js/runtime-main.9360837f.js",
+    "runtime-main.js.map": "/sparqSchedulingApp/static/js/runtime-main.9360837f.js.map",
+    "static/css/2.590c32d9.chunk.css": "/sparqSchedulingApp/static/css/2.590c32d9.chunk.css",
+    "static/js/2.30ee6ce3.chunk.js": "/sparqSchedulingApp/static/js/2.30ee6ce3.chunk.js",
+    "static/js/2.30ee6ce3.chunk.js.map": "/sparqSchedulingApp/static/js/2.30ee6ce3.chunk.js.map",
+    "index.html": "/sparqSchedulingApp/index.html",
+    "precache-manifest.46fe7f47cf75fadaf0f5b22fa24abd97.js": "/sparqSchedulingApp/precache-manifest.46fe7f47cf75fadaf0f5b22fa24abd97.js",
+    "service-worker.js": "/sparqSchedulingApp/service-worker.js",
+    "static/css/2.590c32d9.chunk.css.map": "/sparqSchedulingApp/static/css/2.590c32d9.chunk.css.map",
+    "static/css/main.72caaa33.chunk.css.map": "/sparqSchedulingApp/static/css/main.72caaa33.chunk.css.map",
+    "static/js/2.30ee6ce3.chunk.js.LICENSE.txt": "/sparqSchedulingApp/static/js/2.30ee6ce3.chunk.js.LICENSE.txt",
+    "static/js/main.653ea677.chunk.js.LICENSE.txt": "/sparqSchedulingApp/static/js/main.653ea677.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/sparqSchedulingApp/static/media/background.fd9b0e42.png",
+    "static/media/background3.png": "/sparqSchedulingApp/static/media/background3.9c6cc566.png",
+    "static/media/logo.png": "/sparqSchedulingApp/static/media/logo.5020bcbd.png",
+    "static/media/logo2.png": "/sparqSchedulingApp/static/media/logo2.5574e278.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9360837f.js",
+    "static/css/2.590c32d9.chunk.css",
+    "static/js/2.30ee6ce3.chunk.js",
+    "static/css/main.72caaa33.chunk.css",
+    "static/js/main.653ea677.chunk.js"
+  ]
+}
