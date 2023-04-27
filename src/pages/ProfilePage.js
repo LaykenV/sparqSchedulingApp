@@ -20,6 +20,7 @@ import NavBar from '../components/NavBar';
 import DeleteIcon from '@mui/icons-material/Delete';
 import axios from "axios";
 import { ToastComponent } from '../components/ToastComponent';
+import { DevNote } from '../components/DevNote';
 
 
 
@@ -412,6 +413,7 @@ const ProfilePage = ({children}) => {
             
             <div className='profilePage'>
                 <div className='header'>
+                    <DevNote page={"profilePage"} header={"Developer Notes"} message={"The form on the left is how the user adds their profile to our database. The form above is made so that the user can add their availabilities for each day. When submitted, the form adds, updates, or deletes the availabilites to the database and it is rendered in the Dashboard. Close these notes before touching the form or it will be in the way!"}></DevNote>
                     <div className='headerText'>
                         Profile
                     </div>

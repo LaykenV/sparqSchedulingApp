@@ -57,12 +57,7 @@ const NavBar = ({children}) => {
                 <ViewComfyIcon />
                 <span style = {{width: '5px'}}/>
                 Dashboard
-            </NavBarBlock>            
-            <NavBarBlock selected = {pathname == '/usermanagement' ? true: false} onClick = {() => {handleClick("/usermanagement")}}>
-                <PeopleAltIcon />
-                <span style = {{width: '5px'}}/>
-                User Management
-            </NavBarBlock>            
+            </NavBarBlock>                       
             <NavBarBlock selected = {pathname == '/profile' ? true: false} onClick = {() => {handleClick("/profile")}}>
                 <CalendarMonthIcon />
                 <span style = {{width: '5px'}}/>
