@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sparqSchedulingApp/precache-manifest.ce361b7556e2348ed0d1ce738a2e383a.js"
+  "/sparqSchedulingApp/precache-manifest.46b915b0eaf6ba03f72e2e7d191c25d9.js"
 );
 
 self.addEventListener('message', (event) => {
